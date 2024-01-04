@@ -35,4 +35,4 @@ Edellä mainittujen asioiden lisäksi kilpailijan tulee osata:
 
 ## Tehtäväpankki
 
-(Tehtäväpankki GitHubissa)[https://github.com/orgs/webkehitys/repositories]
+[Tehtäväpankki GitHubissa](https://github.com/orgs/webkehitys/repositories)
